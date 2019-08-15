@@ -1,0 +1,12 @@
+c:\users\p1246a1\onedrive - ceridian hcm inc\documents\visual studio 2015\Projects\SLClick\SLClick\Bin\Debug\SLClick.dll
+c:\users\p1246a1\onedrive - ceridian hcm inc\documents\visual studio 2015\Projects\SLClick\SLClick\Bin\Debug\SLClick.pdb
+c:\users\p1246a1\onedrive - ceridian hcm inc\documents\visual studio 2015\Projects\SLClick\SLClick\Bin\Debug\AppManifest.xaml
+c:\users\p1246a1\onedrive - ceridian hcm inc\documents\visual studio 2015\Projects\SLClick\SLClick\Bin\Debug\SLClick.xap
+c:\users\p1246a1\onedrive - ceridian hcm inc\documents\visual studio 2015\Projects\SLClick\SLClick\Bin\Debug\SLClickTestPage.html
+c:\users\p1246a1\onedrive - ceridian hcm inc\documents\visual studio 2015\Projects\SLClick\SLClick\obj\Debug\SLClick.csprojResolveAssemblyReference.cache
+c:\users\p1246a1\onedrive - ceridian hcm inc\documents\visual studio 2015\Projects\SLClick\SLClick\obj\Debug\App.g.cs
+c:\users\p1246a1\onedrive - ceridian hcm inc\documents\visual studio 2015\Projects\SLClick\SLClick\obj\Debug\MainPage.g.cs
+c:\users\p1246a1\onedrive - ceridian hcm inc\documents\visual studio 2015\Projects\SLClick\SLClick\obj\Debug\SLClick.g.resources
+c:\users\p1246a1\onedrive - ceridian hcm inc\documents\visual studio 2015\Projects\SLClick\SLClick\obj\Debug\SLClick.dll
+c:\users\p1246a1\onedrive - ceridian hcm inc\documents\visual studio 2015\Projects\SLClick\SLClick\obj\Debug\SLClick.pdb
+c:\users\p1246a1\onedrive - ceridian hcm inc\documents\visual studio 2015\Projects\SLClick\SLClick\obj\Debug\XapCacheFile.xml
