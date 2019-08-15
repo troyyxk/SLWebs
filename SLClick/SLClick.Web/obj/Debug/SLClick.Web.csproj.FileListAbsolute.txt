@@ -4,3 +4,9 @@ c:\users\p1246a1\onedrive - ceridian hcm inc\documents\visual studio 2015\Projec
 c:\users\p1246a1\onedrive - ceridian hcm inc\documents\visual studio 2015\Projects\SLClick\SLClick.Web\obj\Debug\SLClick.Web.csprojResolveAssemblyReference.cache
 c:\users\p1246a1\onedrive - ceridian hcm inc\documents\visual studio 2015\Projects\SLClick\SLClick.Web\obj\Debug\SLClick.Web.dll
 c:\users\p1246a1\onedrive - ceridian hcm inc\documents\visual studio 2015\Projects\SLClick\SLClick.Web\obj\Debug\SLClick.Web.pdb
+C:\Users\P1246A1\OneDrive - Ceridian HCM Inc\Documents\Visual Studio 2015\Projects\SLClick\SLClick\SLClick.Web\bin\SLClick.Web.dll.config
+C:\Users\P1246A1\OneDrive - Ceridian HCM Inc\Documents\Visual Studio 2015\Projects\SLClick\SLClick\SLClick.Web\bin\SLClick.Web.dll
+C:\Users\P1246A1\OneDrive - Ceridian HCM Inc\Documents\Visual Studio 2015\Projects\SLClick\SLClick\SLClick.Web\bin\SLClick.Web.pdb
+C:\Users\P1246A1\OneDrive - Ceridian HCM Inc\Documents\Visual Studio 2015\Projects\SLClick\SLClick\SLClick.Web\obj\Debug\SLClick.Web.csprojResolveAssemblyReference.cache
+C:\Users\P1246A1\OneDrive - Ceridian HCM Inc\Documents\Visual Studio 2015\Projects\SLClick\SLClick\SLClick.Web\obj\Debug\SLClick.Web.dll
+C:\Users\P1246A1\OneDrive - Ceridian HCM Inc\Documents\Visual Studio 2015\Projects\SLClick\SLClick\SLClick.Web\obj\Debug\SLClick.Web.pdb
