@@ -1,5 +1,4 @@
 # SLWebs
-
 I make this because I am currently having a new task requires me to add feature to an already existing SilverLight application.
 
 I figured out that I am not going to make progress with this task unless I have some basic understanding of SilverLight and here I am trying a web application of it.
