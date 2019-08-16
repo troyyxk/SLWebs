@@ -1,5 +1,4 @@
-# SLClick
-This is a practice project for SilverLight.
+# SLWebs
 
 I make this because I am currently having a new task requires me to add feature to an already existing SilverLight application.
 
